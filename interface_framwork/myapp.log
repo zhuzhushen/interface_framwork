@@ -1,0 +1,11 @@
+Mon, 06 Mar 2017 13:42:15 http接口框架.py[line:31] INFO 打开<xlrd.book.Book object at 0x0000000003FF7EF0> excel表格成功
+Mon, 06 Mar 2017 13:42:15 http接口框架.py[line:34] INFO 打开<xlrd.sheet.Sheet object at 0x0000000004144CC0>表成功
+Mon, 06 Mar 2017 13:42:15 http接口框架.py[line:37] INFO 表中有3行
+Mon, 06 Mar 2017 13:42:15 http接口框架.py[line:40] INFO 表中有6列
+Mon, 06 Mar 2017 13:42:15 http接口框架.py[line:41] INFO 开始进行循环
+Mon, 06 Mar 2017 13:42:15 http接口框架.py[line:62] INFO http://yuerapi.wangyuhudong.com/login
+Mon, 06 Mar 2017 13:42:15 connectionpool.py[line:213] INFO Starting new HTTP connection (1): yuerapi.wangyuhudong.com
+Mon, 06 Mar 2017 13:42:16 connectionpool.py[line:395] DEBUG "GET /login?username=18855951045&password=123456 HTTP/1.1" 200 None
+Mon, 06 Mar 2017 13:42:16 http接口框架.py[line:62] INFO http://yuerapi.wangyuhudong.com/login
+Mon, 06 Mar 2017 13:42:16 connectionpool.py[line:213] INFO Starting new HTTP connection (1): yuerapi.wangyuhudong.com
+Mon, 06 Mar 2017 13:42:16 connectionpool.py[line:395] DEBUG "GET /login?username=15068701142&password=123456 HTTP/1.1" 200 None
